@@ -12,4 +12,6 @@ VPC Peering
 VPC 1 (App Server)
 VPC 2 (Database/Other Server)
 Peering Connection established
+
 ![Uploading image.png…]()
+
