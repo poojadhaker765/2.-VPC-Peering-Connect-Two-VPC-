@@ -13,5 +13,5 @@ VPC 1 (App Server)
 VPC 2 (Database/Other Server)
 Peering Connection established
 
-![Uploading image.png…]()
+<img width="1365" height="631" alt="image" src="https://github.com/user-attachments/assets/63060d6f-fe37-4275-9879-54b7066a579b" />
 
